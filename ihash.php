@@ -26,7 +26,7 @@ $logo = "\e[36m
   | |___| __ / _` (_-< ' \ 
  |___|  |_||_\__,_/__/_||_|
  \e[91m[ Identifier Hash Type ]
- \e[1m[ By Raden Gozal x BuitenzorgSydicate ]\e[97m                          
+ \e[1m[ By Raden Gozal x BuitenzorgSyndicate ]\e[97m                          
 
 ";
 
