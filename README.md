@@ -6,10 +6,10 @@ How To Use this tools
 $ pkg update && pkg upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/Buitenzorg-Syndicate/I-Hash
+$ git clone https://github.com/BuitenzorgSyndicate/I-Hash
 $ cd I-Hash
 $ php ihash.php
 ```
-Enjoyy ✓✓✓
+Enjoyy ✓
 
 ***Report Bug / Error : radenofc@gmail.com***
